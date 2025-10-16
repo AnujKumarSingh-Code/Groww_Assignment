@@ -1,0 +1,41 @@
+export const lightTheme = {
+  background: '#FFFFFF',
+  text: '#44475B',
+  cardBackground: '#FFFFFF',
+  border: '#EBEDF0',
+  shadowColor: '#00000020',
+  accent: '#00D09C', 
+  primary: '#00D09C',
+  secondary: '#5367FF',
+  success: '#00D09C',
+  error: '#EB5B3C',
+  warning: '#FFB800',
+  muted: '#8B9299',
+  lightGray: '#F5F6FA',
+  selectedBackground: '#F0FDF9',
+  surfaceVariant: '#F8F9FB',
+  onSurface: '#1A1D29',
+  outline: '#E5E7EB',
+};
+
+export const darkTheme = {
+  background: '#0D1017',
+  text: '#FFFFFF',
+  cardBackground: '#1A1D29',
+  border: '#2A2D3D',
+  shadowColor: '#00000040',
+  accent: '#00D09C', 
+  primary: '#00D09C',
+  secondary: '#5367FF',
+  success: '#00D09C',
+  error: '#FF6B6B',
+  warning: '#FFD93D',
+  muted: '#8B92A5',
+  lightGray: '#1A1D29',
+  selectedBackground: '#0F2A21', 
+  surfaceVariant: '#1E212B',
+  onSurface: '#FFFFFF',
+  outline: '#2A2D3D',
+};
+
+export const getTheme = (isDarkMode: boolean) => isDarkMode ? darkTheme : lightTheme;
