@@ -78,9 +78,9 @@ A React Native mobile application that simulates a stock trading experience. It 
 <p align="center">
   <img src="screenshots/light/add.png" width="250" />
   <img src="screenshots/light/watchlist.png" width="250" />
-  <img src="screenshots/light/viewa-all.png" width="250" />
+  <img src="screenshots/light/view-all.png" width="250" />
   <img src="screenshots/light/watchlist-details.png" width="250" />
-  <img src="screenshots/light/company-overiew.png" width="250" />
+  <img src="screenshots/light/company-overview.png" width="250" />
 </p>
 
 ---
