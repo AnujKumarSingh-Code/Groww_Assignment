@@ -38,4 +38,4 @@ export const darkTheme = {
   outline: '#2A2D3D',
 };
 
-export const getTheme = (isDarkMode: boolean) => isDarkMode ? darkTheme : lightTheme;
+export const getTheme = (isDarkMode: boolean) => isDarkMode ? darkTheme : lightTheme

@@ -157,5 +157,5 @@ export const generateStockData = (length: number, basePrice = 35.0) => {
   }
 
   return data;
-};
+}
 

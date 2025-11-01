@@ -33,4 +33,4 @@ export interface StockDetails {
   ReturnOnEquityTTM: string;
   EPS: string | null;
   DividendYield: string | null;
-}
+};

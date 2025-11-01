@@ -1,7 +1,6 @@
 import axios from "axios";
+import { API_KEY, BASE_URL } from "@env";
 
-const API_KEY =  "68f0c1209ae008.76934660";
-const BASE_URL = "https://www.alphavantage.co/query";
 
 const apiClient = axios.create({
   baseURL: BASE_URL,

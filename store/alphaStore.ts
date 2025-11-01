@@ -12,7 +12,7 @@ const TTL = {
 type CacheEntry<T> = {
   data: T;
   timestamp: number;
-};
+}
 
 type AlphaState = {
   gainersLosers?: CacheEntry<any>;
