@@ -65,22 +65,22 @@ A React Native mobile application that simulates a stock trading experience. It 
 
 ### Dark Mode
 <p align="center">
-  <img src="screenshots/dark/dark-add.png" width="250" />
-  <img src="screenshots/dark/dark-company-overview.png" width="250" />
-  <img src="screenshots/dark/dark-explore.png" width="250" />
-  <img src="screenshots/dark/dark-home-screen.png" width="250" />
-  <img src="screenshots/dark/dark-view-all.png" width="250" />
-  <img src="screenshots/dark/dark-watchlist-details.png" width="250" />
-  <img src="screenshots/dark/dark-watchlist.png" width="250" />
+  <img src="screenShot/1.1.jpeg" width="250" />
+  <img src="screenShot/1.2.jpeg" width="250" />
+  <img src="screenShot/1.3.jpeg" width="250" />
+  <img src="screenShot/1.4.jpeg" width="250" />
+  <img src="screenShot/1.5.jpeg" width="250" />
+  <img src="screenShot/1.6.jpeg" width="250" />
 </p>
 
 ### Light Mode
 <p align="center">
-  <img src="screenshots/light/add.png" width="250" />
-  <img src="screenshots/light/watchlist.png" width="250" />
-  <img src="screenshots/light/view-all.png" width="250" />
-  <img src="screenshots/light/watchlist-details.png" width="250" />
-  <img src="screenshots/light/company-overview.png" width="250" />
+  <img src="screenShot/2.1.jpeg" width="250" />
+  <img src="screenShot/2.2.jpeg" width="250" />
+  <img src="screenShot/2.3.jpeg" width="250" />
+  <img src="screenShot/2.4.jpeg" width="250" />
+  <img src="screenShot/2.5.jpeg" width="250" />
+  <img src="screenShot/2.6.jpeg" width="250" />
 </p>
 
 ---
