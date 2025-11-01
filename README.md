@@ -1,4 +1,4 @@
-# 📈 A Modern Stock Broking App
+# A Modern Stock Broking App
 
 A React Native mobile application that simulates a stock trading experience. It enables users to explore real-time market data, manage their watchlist, and make smarter investment decisions — all within a sleek and responsive interface.
 
@@ -61,7 +61,7 @@ A React Native mobile application that simulates a stock trading experience. It 
 ---
 
 
-## 📸 Screenshots
+## Screenshots
 
 ### Dark Mode
 <p align="center">
